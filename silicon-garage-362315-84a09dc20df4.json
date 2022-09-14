@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "silicon-garage-362315",
+  "private_key_id": "84a09dc20df43e6c352370059833b00a65ff0825",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCmcuE4OhQxYK8o\n4asB9T61b0i4n1TmX4gnx7R9dyQBu0grKMDZmcj+mB4+IznlOvV/p+3uscZMW5x3\n4pBJrVF76hZBt4hrxQtrXybK2B6s5zbpLnPnJnCgo8DVnJOOfJPZrmnLO/fAtcKo\nXtVZS3QNgFx68J4hUlRPNVYIC09C1IqT0EZv5tnLvIsLerMoZ9JgH+SgyrNreY6X\nLcBU1Larhrqo84KTfuLUqZ2sDDwRAZRP+wu3h2PhcQkFy20+eysZnR0kabJeoGlq\nL0O5SIB/MIqSMihD3LrefEc5fUp+dKh5WBKa1Nmh25aRvyxR3ydloclw/jATG7pH\nDRsW0XvDAgMBAAECggEAB/xMK9toq2aWrYc67uQdakaSUZeehh+6AFaUPs5TFU/I\nsMr98Mw8/vuJvLQ9JQjegFpfj7hKg2odwdUTB3kTBx1+Jd1jsSMjkh1fI61mUCgW\n07pQmzVjHLURtyERvzmto9LtuaKasOct4jZyiLWWNfoDj25kPisDmnoJMs4AGa+i\nJLv0NuvS49PPBC/Ex84qbHXh0o0U4JwBWrISAhEW1T7RNgrZL1pEfG0nASVHQFzm\n+2weJA/B61YXAoUhFx1Tm9DeBpBAtOJ5G5yH3pcroCrAUdNaUH8MsTS8Nmx/mGEL\nZSz+3Gszwp+MVoSD8DN08PzZelOS6PROnY7T5hCMKQKBgQDRtTxbjqRzPuUYvcBR\nCrjxa3pXZ/ZfjC0yncGadNNZDq1cYTRSpbiMTEp7XKtsFF7YqycxJ8R7XqqVErm0\n6p5fdDjeX4cWiinuLZn5tAiIQ71OuqZrC3WP0I+n8t1jfdwAV8gg9mApsDNISSat\n7OqXAv5oM5UBhavr2DxXcD2u/wKBgQDLMQgj5nNqFGGUZxEt7ZGEMzvMApyV2PDY\nr1QWjpPha5oyv5eEbRg+PuUygS8dM7Y2i4OgL28MJhYRziiQyV24xxOvYuogThKx\nppaqrBNiBJM5g+fUa8P4qtWQBWolwR5Ex/PToUJOcyvRcgizrqgqFf2J602PsS26\ngyaPTno3PQKBgCbFwHwZGnSoW0lAxA730YvpWDxS3215CF5EZqg9E1py6UCcREVH\nmKBv9pFqZ9NazNJ4io1/EcfRj+5yAN3fRxrU7TLILLzRHMGJst9FFxLCm3yz69L8\n0madpAHkWGRtv8BceocFpm/uwPyLcdhUZmc3SXxQlSsr4MaBO17bRLxXAoGAZBZg\n5h4sF8K2Vj12ruLo3O/HsrROoVldOb8TcpEEsvMn33uUjPyYBoFAsOIFbSL9zFxo\nl80FrDxOfrLINJmb+trFDY1xujv65VsjuCpO2edbBee9mFsFC0ZLMEgag0JfQI4l\nwscaPD5rBR5gvvF3kFOIshkf+XnTBp53rfuAJBkCgYAGMPO5YGcrD2JnNMfVzCQR\nA2OtBoGByFUraPa4dEd+5SbOtp+QNfH4Um1M3eNSMcZ8WhX8YhpcO4hbMT5xZros\nulova+p+VEWPrMNiyfvO93Cj1pU8CqMj3+nFi6xPe0zIVD39ou58KtWHfxVY/hnZ\niBSmUuE+ZgbLKULSH3AFUQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "shota-receipt@silicon-garage-362315.iam.gserviceaccount.com",
+  "client_id": "117562077692243084303",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/shota-receipt%40silicon-garage-362315.iam.gserviceaccount.com"
+}
